@@ -1,7 +1,9 @@
 # pod-frontend
 
-The 3DBurg shop frontend: Angular 21 with server-side rendering. Customers upload an STL or
-3MF, get a sliced quote from the backend, order and pay; the owner handles orders in `/admin`.
+Angular 21 (SSR) frontend for a 3D print-on-demand platform featuring instant STL/3MF slicing quotes, integrated checkout, and admin analytics.
+
+<img width="1750" height="883" alt="image" src="https://github.com/user-attachments/assets/3087a94a-1a6d-4e63-bc33-8224f7652fc1" />
+
 
 | Folder | Purpose |
 |---|---|
